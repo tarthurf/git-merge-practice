@@ -2,3 +2,8 @@
     background-color: black;
     color: blueviolet;
 }
+
+div {
+    margin: 4px;
+    padding: 2px;
+}
