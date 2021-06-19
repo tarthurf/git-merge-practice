@@ -2,8 +2,11 @@
     background-color: black;
     color: blueviolet;
 }
-
 div {
     margin: 4px;
     padding: 2px;
+}
+p {
+    width: 10px;
+    height: 20px;
 }
